@@ -16,3 +16,5 @@ where:
 - '#' - wall cell
 - 'M' - monster cell
 - 'P' - pacman cell
+
+Output: minimum number of steps to reach the exit (if possible)
